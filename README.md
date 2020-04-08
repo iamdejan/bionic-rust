@@ -8,7 +8,7 @@ Docker image based on Ubuntu Bionic Beaver (18.04) with Rust installed.
 
 To use this image, just add this on top of your `Dockerfile`:
 ```
-FROM iamdejan/bionic-rust:latest
+FROM dejan1998/bionic-rust:latest
 ```
 
 ### Prerequisites
